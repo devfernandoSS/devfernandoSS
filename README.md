@@ -19,7 +19,7 @@
 <p>
    Sou um desenvolvedor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> brasileiro!
    
-   :telescope: Venho trabalhando de freelancer atuando principalmente na area de Front-End.
+   :telescope: Venho trabalhando de freelancer atuando principalmente na área de Front-End.
   
    :seedling: Explorando novas formas de aprender.
   
