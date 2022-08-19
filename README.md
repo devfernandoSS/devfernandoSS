@@ -49,5 +49,5 @@
 
 ### :writing_hand: About me:
  <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/devfernandoss/test-post-167m)
+- [dev.to](https://dev.to/devfernandoss/test-post-167m)
 <!-- BLOG-POST-LIST:END -->
