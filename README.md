@@ -46,7 +46,6 @@
 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfernandoSS&show_icons=true&theme=dracula)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devfernandoSS&theme=dracula)](https://git.io/streak-stats)
 
 ### :writing_hand: About me:
  <!-- BLOG-POST-LIST:START -->
