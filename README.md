@@ -23,7 +23,7 @@
   
    :seedling: Explorando novas formas de aprender.
   
-   :zap: No meu tempo livro gosto de assistir uma boa seria e aproveitar o tempo para estudar.
+   :zap: No meu tempo livro gosto de assistir uma boa serie e aproveitar o tempo para estudar.
   
    :mailbox: Entre em contato comigo com o link abaixo!
  
